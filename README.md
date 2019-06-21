@@ -1,4 +1,5 @@
 # JavaSimpleGames
+> Snake and Tetris in Java Swing
 ## Tetris
 ## Snake
 ## License
