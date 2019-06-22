@@ -1,7 +1,9 @@
 # JavaSimpleGames
 > Snake and Tetris in Java Swing
 ## Tetris
+![](http://g.recordit.co/kRhbz1yMqr.gif)
 ## Snake
+![](http://g.recordit.co/GuMwk24Uk7.gif)
 ## License
 [MIT](https://github.com/booleanull/JavaSimpleGames/blob/master/LICENSE)
 ```
